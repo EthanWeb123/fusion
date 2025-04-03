@@ -82,8 +82,18 @@ h2 {
 
 .section_1 {
     background: #afafaf;
+}
 
+#sec2 {
+    background: rgb(221, 33, 33);
+}
 
+#sec3 {
+    background: rgb(33, 221, 111);
+}
+
+#sec4 {
+    background: rgb(33, 221, 111);
 }
 
 
