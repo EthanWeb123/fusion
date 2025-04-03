@@ -1,0 +1,48 @@
+.section_2 {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #1E2129;
+    gap: 20px;
+
+}
+
+.section_2 .card {
+    width: 360px;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+} 
+
+.section_2 .header img {
+    width: 350px;
+    height: 350px;
+}
+
+.section_2 h3 {
+    color:white
+}
+
+.section_2 p{
+    color: white;
+    text-align: center;
+}
+
+.section_2 .button {
+    width: 220px;
+    padding: 16px 25px;
+    border-radius: 12px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    color:white;
+    background: 50;
+    text-decoration: none;
+    background: #fe8b6c;
+}
